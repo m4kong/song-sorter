@@ -8,7 +8,7 @@ This is a song sorter leveraging VueJS, Vuetify & Axios. Functional goals were:
 
 ### Result:
 
-#### Demo: http://kongsong.s3-website.us-east-2.amazonaws.com/
+#### Demo: <a href="http://kongsong.s3-website.us-east-2.amazonaws.com/" target="_blank">http://kongsong.s3-website.us-east-2.amazonaws.com/</a>
 
 <img src="https://i.imgur.com/QNR3JL5.png" width="975"/>
 
