@@ -22,30 +22,30 @@ I opted to fetch the top 200 songs from the iTunes RSS feed (as JSON). There is 
 
 ## Installation
 
-### Requirements
+### Requirements:
 
-Install & Run Reqs: [NodeJS](https://nodejs.org/en/)
+Install & Run: [NodeJS](https://nodejs.org/en/)
 Compile & Minify (Optional): [Vue CLI](https://cli.vuejs.org/)
 
-### Project setup
+### Project setup:
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development:
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production (Vue CLI)
+### Compiles and minifies for production (Vue CLI):
 
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints and fixes files:
 
 ```
 npm run lint
