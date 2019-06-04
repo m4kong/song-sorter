@@ -15,7 +15,7 @@ This is a song sorter leveraging VueJS, Vuetify & Axios. Functional goals were:
 A user can sort by album name, song title, artist name and release date. A user can also search against all displayed information with results being instantly displayed. If no results are found, the user is notified accordingly.
 
 ### Notes:
-I opted to fetch the top 200 songs from the iTunes RSS feed (as JSON). There is a visual loading indicator althogh my experience has been under 10 ms response rates making it nearly undetectable. The design was inspired by the colors of the RockStar can pictured below. Honestly I'm not sure if the flavor or the can design which prompts me to keep buying it I don't even like mango very much.
+I opted to fetch the top 200 songs from the iTunes RSS feed (as JSON). There is a visual loading indicator although my experience has been under 10 ms response rates making it nearly undetectable. The design was inspired by the colors of the RockStar can pictured below.
 
 ### Actual inspirational can FTW:<br>
 <img src="https://i.imgur.com/ifeWRsN.png" width="400"/>
