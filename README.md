@@ -8,6 +8,8 @@ This is a song sorter leveraging VueJS, Vuetify & Axios. Functional goals were:
 
 ### Result:
 
+#### Demo: http://kongsong.s3-website.us-east-2.amazonaws.com/
+
 <img src="https://i.imgur.com/QNR3JL5.png" width="975"/>
 
 A user can sort by album name, song title, artist name and release date. A user can also search against all displayed information with results being instantly displayed. If no results are found, the user is notified accordingly.
